@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.4",
+  "Category": "Games",
+  "Description": "Native C++ open-world survival prototype",
+  "Modules": [
+    {
+      "Name": "WildlandsSurvival",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
